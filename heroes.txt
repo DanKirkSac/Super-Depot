@@ -1,0 +1,20 @@
+FROG HATTER
+Ability: Summons frogs with top hats who tap dance on enemies as an army of hatters.
+Slogan: Your enemy will be tappin' out in no time.
+Saved the World: 2
+Weakness: Mustaches
+Strengths:
+
+TURKEY DRIVER
+Ability: They can transform into vehicles with Turkey features.
+Slogan: Nothing runs like a turkey.
+Saved the World: Every time.
+Weakness: Stuffing
+Strengths:
+
+PSYCHIC MELODY
+Ability: Has the ability to know the enemy's guilty pleasure music playlist and will play it during combat. Enemy suffers paralysis for a brief moment and has no choice but to begin dancing.
+Slogan: You'll drop before the base drops.
+Saved the World: 4
+Weakness: Nickelback
+Strengths:
